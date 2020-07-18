@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - SoundWave
+  - Character
+  - Projectiles
+  - Enemy Projectiles
+  - Enemies
+  - Confiner
+  - Camera
+  - Collectible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1835691765
+    locked: 0
+  - name: Soundwaves
+    uniqueID: 755981551
+    locked: 0
+  - name: Terrain
+    uniqueID: 1433308435
+    locked: 0
+  - name: CharacterSoundWaves
+    uniqueID: 2593582297
+    locked: 0
+  - name: Character
+    uniqueID: 3425185057
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3973858963
+    locked: 0
